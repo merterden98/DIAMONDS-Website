@@ -5,6 +5,7 @@ To make sure that this tutorial works for you, you need to have `node` and its r
 Overview of workshop:
 
 - What is the web?
+- [DNS](https://www.youtube.com/watch?v=UVR9lhUGAyU)
 - What do web developers try to achieve/what problems do they solve?
 - How does anything I'm doing relate to research?
 - HTML, CSS & Javascript.
