@@ -4,7 +4,7 @@ To make sure that this tutorial works for you, you need to have `node` and its r
 
 Overview of workshop:
 
-- What is the web?
+- What is the web? The original [website](http://info.cern.ch/)
 - [DNS](https://www.youtube.com/watch?v=UVR9lhUGAyU)
 - What do web developers try to achieve/what problems do they solve?
 - How does anything I'm doing relate to research?
@@ -16,7 +16,7 @@ Overview of workshop:
 - [What is React](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - SEO & Where the money is.
 - [NextJS](https://www.youtube.com/watch?v=Sklc_fQBmcs)
-- Finally we get to create a website/load one up. This repo itself contains the starter code for a NextJS application with Tailwind setup.
+- Finally we get to create a website/load one up. This repo itself contains the starter code for a NextJS application with Tailwind  setup.
 - Deploying the website via [Vercel](https://vercel.com/).
 
 Useful links:
